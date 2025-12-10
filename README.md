@@ -1,9 +1,3 @@
-Below is a clean, professional **Markdown README** for your **Microsoft Azure project**, based fully on the content of your workbook.
-You can copy and paste this directly into your `README.md` file on GitHub.
-
----
-
-````markdown
 # ☁️ Microsoft Azure Cloud Computing Project  
 ### Azure Fundamentals • Cloud Models • ADF • Relational & Non-Relational Data • Security & Compliance
 
